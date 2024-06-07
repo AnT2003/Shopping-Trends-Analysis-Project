@@ -5,11 +5,10 @@ This project involves analyzing customer shopping trends using a dataset from Ka
 
 ## Table of Contents
 1. [Data Collection](#data-collection)
-2. [Data Preprocessing](#data-preprocessing)
-3. [Exploratory Data Analysis](#exploratory-data-analysis)
-4. [Modeling](#modeling)
-5. [Application](#application)
-6. [Conclusion and Recommendations](#conclusion-and-recommendations)
+2. [Exploratory Data Analysis](#exploratory-data-analysis)
+3. [Modeling](#modeling)
+4. [Application](#application)
+5. [Conclusion and Recommendations](#conclusion-and-recommendations)
 
 ## Data Collection
 The dataset used is "Customer Shopping Trends" from Kaggle, which includes various attributes such as age, gender, purchase history, and location.
