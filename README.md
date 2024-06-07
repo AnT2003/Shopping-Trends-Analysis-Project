@@ -138,8 +138,9 @@ Impact of Promo Codes on Purchases:
 | Yes             | 1677           | 43%        |
 | No              | 2223           | 57%        |
 
-![Power BI Dashboard](images/power_bi_dashboard.png)
-![Clustering Results](images/clustering_results.png)
+![Power BI Dashboard](images/Dasboard.png)
+![Clustering Results](images/output_kmeans.png)
+![Silhouette Score](images/silhouette_kmeans.png)
 
 ## Conclusion and Recommendations
 ### Conclusion
