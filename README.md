@@ -31,7 +31,7 @@ Applied clustering algorithms:
 ### By implementing these strategies, the store can enhance customer satisfaction, loyalty, and profitability.
 #### Some Data Analysis Results
 
-Distribution of age
+Distribution of age:
 | Age | Purchase Amount |
 |-----|-----------------|
 | 69  | 88              |
@@ -56,14 +56,14 @@ Distribution of age
 | 59  | 75              |
 
 
-Average Purchase Amount by Gender
+Average Purchase Amount by Gender:
 | Gender | Average Purchase Amount |
 |--------|-------------------------|
 | Male   | 59.5362                 |
 | Female | 60.2492                 |
 
 
-Seasonality in Purchase Frequency
+Seasonality in Purchase Frequency:
 | Season | Frequency        | Purchase Amount |
 |--------|------------------|-----------------|
 | Fall   | Annually         | 157             |
@@ -96,7 +96,7 @@ Seasonality in Purchase Frequency
 | Winter | Weekly           | 145             |
 
 
-Top popular sizes and colors
+Top popular sizes and colors:
 | Size | Color     | Count |
 |------|-----------|-------|
 | M    | Violet    | 87    |
@@ -119,89 +119,9 @@ Top popular sizes and colors
 | M    | Red       | 65    |
 | M    | Cyan      | 65    |
 | M    | Brown     | 65    |
-| M    | Blue      | 65    |
-| M    | Yellow    | 64    |
-| M    | Pink      | 63    |
-| M    | Purple    | 62    |
-| L    | Yellow    | 59    |
-| M    | Turquoise | 58    |
-| L    | Green     | 55    |
-| L    | Teal      | 54    |
-| L    | Black     | 53    |
-| L    | Pink      | 52    |
-| L    | Cyan      | 48    |
-| L    | Blue      | 48    |
-| L    | Silver    | 47    |
-| L    | Turquoise | 44    |
-| L    | Violet    | 42    |
-| L    | Orange    | 42    |
-| L    | Red       | 41    |
-| L    | Lavender  | 41    |
-| L    | Gray      | 40    |
-| L    | Brown     | 40    |
-| L    | Maroon    | 39    |
-| L    | Purple    | 39    |
-| L    | Olive     | 38    |
-| L    | Gold      | 38    |
-| S    | Olive     | 36    |
-| S    | Cyan      | 35    |
-| L    | Indigo    | 35    |
-| L    | Peach     | 34    |
-| L    | Charcoal  | 32    |
-| L    | Magenta   | 32    |
-| S    | Silver    | 32    |
-| S    | Maroon    | 30    |
-| L    | White     | 30    |
-| L    | Beige     | 30    |
-| S    | Peach     | 30    |
-| S    | Teal      | 29    |
-| S    | Purple    | 29    |
-| S    | Blue      | 29    |
-| S    | Yellow    | 29    |
-| S    | Black     | 27    |
-| S    | Lavender  | 27    |
-| S    | Beige     | 27    |
-| S    | Gray      | 26    |
-| S    | Magenta   | 26    |
-| S    | Indigo    | 25    |
-| S    | Turquoise | 25    |
-| S    | Charcoal  | 24    |
-| S    | Red       | 24    |
-| S    | Violet    | 23    |
-| S    | Green     | 23    |
-| XL   | Magenta   | 23    |
-| XL   | Beige     | 23    |
-| XL   | Yellow    | 22    |
-| S    | Gold      | 22    |
-| S    | Orange    | 22    |
-| S    | White     | 21    |
-| S    | Pink      | 21    |
-| S    | Brown     | 21    |
-| XL   | Purple    | 21    |
-| XL   | Green     | 21    |
-| XL   | White     | 20    |
-| XL   | Charcoal  | 20    |
-| XL   | Teal      | 19    |
-| XL   | Black     | 19    |
-| XL   | Turquoise | 18    |
-| XL   | Cyan      | 18    |
-| XL   | Red       | 18    |
-| XL   | Pink      | 17    |
-| XL   | Olive     | 17    |
-| XL   | Orange    | 16    |
-| XL   | Silver    | 15    |
-| XL   | Brown     | 15    |
-| XL   | Gray      | 15    |
-| XL   | Peach     | 15    |
-| XL   | Lavender  | 14    |
-| XL   | Indigo    | 14    |
-| XL   | Violet    | 14    |
-| XL   | Maroon    | 13    |
-| XL   | Gold      | 12    |
-| XL   | Blue      | 10    |
 
 
-Most common shipping type
+Most common shipping type:
 | Shipping Type | Count |
 |---------------|-------|
 | Free Shipping | 675   |
@@ -212,7 +132,7 @@ Most common shipping type
 | 2-Day Shipping| 627   |
 
 
-Impact of Promo Codes on Purchases
+Impact of Promo Codes on Purchases:
 | Promo Code Used | Purchase Count | Percentage |
 |-----------------|----------------|------------|
 | Yes             | 1677           | 43%        |
