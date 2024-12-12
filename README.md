@@ -1,4 +1,4 @@
-# Sentiment Analysis and Customer Segmentation Project
+# Shopping Trends Analysis and Customer Segmentation Project
 
 ## Overview
 This project involves analyzing customer shopping trends using a dataset from Kaggle, providing insights through SQL analysis, visualizations, and creating a dashboard in Power BI. Additionally, machine learning models such as K-Means, PAM, and CLARANS are employed for customer segmentation. The goal of this project is to analyze customer shopping trends and segment customers to enhance marketing strategies and improve sales through data-driven insights.
